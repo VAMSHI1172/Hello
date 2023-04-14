@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ok
+=======
+bye
+>>>>>>> parent of 771500c (Commit3)
